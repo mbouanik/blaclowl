@@ -89,7 +89,7 @@ local components = {
   namespace = '#a3a0d8',
   operator = '#ff7279',
   parameter = '#50b0e0',
-  string = '#e0a076',
+  string = '#FCA17D',
   type = '#0ab6ba',
   variable = '#74c7ec',
 
