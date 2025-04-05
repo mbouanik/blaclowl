@@ -88,10 +88,10 @@ local components = {
   method = '#f9e2af',
   namespace = '#a3a0d8',
   operator = '#ff7279',
-  parameter = '#74c7ec',
+  parameter = '#50b0e0',
   string = '#e0a076',
   type = '#0ab6ba',
-  variable = '#9ac6e0',
+  variable = '#74c7ec',
 
   -- indicators
   error = palette.red[3],
