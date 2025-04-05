@@ -81,7 +81,7 @@ local components = {
 
   -- syntax
   comment = '#A6ADC8',
-  constant = '#89B4FA',
+  constant = '#74C7EC',
   field = '#FCA17D',
   keyword = "#cba6f7",
   literal = '#ca7050',
@@ -91,7 +91,7 @@ local components = {
   parameter = '#50b0e0',
   string = '#ABE9B3',
   type = '#0ab6ba',
-  variable = '#74c7ec',
+  variable = '#89B4FA',
 
   -- indicators
   error = palette.red[3],
