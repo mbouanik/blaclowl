@@ -82,14 +82,14 @@ local components = {
   -- syntax
   comment = '#A6ADC8',
   constant = '#89B4FA',
-  field = '#ABE9B3',
+  field = '#FCA17D',
   keyword = "#cba6f7",
   literal = '#ca7050',
   method = '#f9e2af',
   namespace = '#a3a0d8',
   operator = '#ff7279',
   parameter = '#50b0e0',
-  string = '#FCA17D',
+  string = '#ABE9B3',
   type = '#0ab6ba',
   variable = '#74c7ec',
 
