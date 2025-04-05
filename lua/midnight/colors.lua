@@ -5,7 +5,7 @@ local palette = {
   blue = {
     [1] = '#b8d3ff',
     [2] = '#a6c8ff',
-    [3] = '#89B4FA',
+    [3] = '#78a9ff',
     [4] = '#5c97ff',
   },
   cyan = {
@@ -81,7 +81,7 @@ local components = {
 
   -- syntax
   comment = '#878d96',
-  constant = '#5080ff',
+  constant = '#89B4FA',
   field = '#7ac098',
   keyword = '#a665d0',
   literal = '#ca7050',
