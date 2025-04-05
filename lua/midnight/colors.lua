@@ -5,7 +5,7 @@ local palette = {
   blue = {
     [1] = '#b8d3ff',
     [2] = '#a6c8ff',
-    [3] = '#78a9ff',
+    [3] = '#89B4FA',
     [4] = '#5c97ff',
   },
   cyan = {
